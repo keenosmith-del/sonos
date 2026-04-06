@@ -1,5 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
+import logo from "./assets/logo.png";
 
 function Home({ name, setName, isLoggedIn, setIsLoggedIn }) {
   const nameRef = useRef(null);
@@ -122,7 +123,7 @@ function Home({ name, setName, isLoggedIn, setIsLoggedIn }) {
 
       {/* RIGHT SIDE (Logo) */}
       <div className="right-side">
-        <img src="/src/assets/logo.png" alt="logo" className="logo"/>
+        <img src={logo} alt="logo" className="logo"/>
       </div>
 
         {/* bottom banner */} 
