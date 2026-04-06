@@ -88,48 +88,31 @@ function About({ name, setIsLoggedIn, cart }) {
       {/* MIDDLE: DESCRIPTION */}
       <div className="about-middle">
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-          veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-          commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-          velit esse cillum dolore eu fugiat nulla pariatur.
+          We believe that great sound deserves an equally great experience. 
+          Our goal is to create a space where premium audio products meet thoughtful design, allowing you to explore, discover, and enjoy technology in a way that feels effortless.
+
+          <br /><br />
+          We are inspired by the idea that music is more than just sound. It's atmosphere, emotion, and connection.
+          Whether it's filling a room with rich, immersive audio or creating a personal listening experience that travels with you, the right product can completely transform how you engage with your environment.
+          That belief is what drives everything we do.
+          <br /><br />
+
+          Our collection is carefully curated to reflect modern lifestyles. 
+          From compact speakers designed for everyday convenience to powerful home setups built for cinematic experiences, each product is selected with both performance and design in mind.
+          We focus on versatility, offering options that adapt to different spaces, preferences, and moments.
+          <br /><br />
+
+          We also understand that choosing the right product should feel intuitive. 
+          That's why we've built an experience that puts clarity first. 
+          You can explore different variations, compare options visually, and make decisions with confidence. 
+          Every detail — from how products are presented to how interactions flow — is designed to feel smooth, responsive, and natural.
 
           <br /><br />
 
-          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-          deserunt mollit anim id est laborum. Curabitur pretium tincidunt lacus.
-          Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,
-          est eros bibendum elit, nec luctus magna felis sollicitudin mauris.
-
-          <br /><br />
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-          veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-          commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-          velit esse cillum dolore eu fugiat nulla pariatur.
-
-          <br /><br />
-
-          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-          deserunt mollit anim id est laborum. Curabitur pretium tincidunt lacus.
-          Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,
-          est eros bibendum elit, nec luctus magna felis sollicitudin mauris.
-
-          <br /><br />
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-          veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-          commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-          velit esse cillum dolore eu fugiat nulla pariatur.
-
-          <br /><br />
-
-          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-          deserunt mollit anim id est laborum. Curabitur pretium tincidunt lacus.
-          Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra,
-          est eros bibendum elit, nec luctus magna felis sollicitudin mauris.
+          Beyond the products themselves, we care deeply about the experience of using our platform. 
+          We aim to remove unnecessary complexity and replace it with simplicity. 
+          From browsing to managing your selections, every step is designed to feel seamless. 
+          It's not just about functionality — it's about creating something that feels refined and enjoyable to use.
         </p>
 
         <div className="about-socials">
